@@ -2,3 +2,9 @@ Flask==3.0.0
 qrcode==7.4.2
 Pillow==10.2.0
 reportlab==4.0.9
+flask
+gunicorn
+spacy==3.7.2
+numpy<2.0
+pandas
+scikit-learn
